@@ -1,16 +1,48 @@
-# podkes
+# Podkes 🎧
 
-A new Flutter project.
+**Podkes** modern bir podcast keşif ve dinleme uygulamasıdır. Kullanıcı dostu tasarımı ve karanlık temasıyla, farklı kategorilerdeki popüler podcast'leri keşfetmenize ve dinlemenize olanak tanır.
 
-## Getting Started
+## 📸 Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+| Ana Ekran                         | Şimdi Çalıyor Ekranı              |
+|-----------------------------------|-----------------------------------|
+| ![Ana Ekran](./screenshots/home.png) | ![Şimdi Çalıyor](./screenshots/now_playing.png) |
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎙️ Podcast keşfi: Farklı kategorilerdeki podcast'leri keşfedin.
+- 🕶️ Karanlık Tema: Kullanıcı dostu, göz yormayan bir tasarım.
+- 📱 Responsive Tasarım: Farklı cihazlarda mükemmel uyum.
+- 🔍 Arama Fonksiyonu: Aradığınız içeriklere kolayca ulaşın.
+- 📂 Modüler Yapı: Kolay anlaşılabilir, temiz kod.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Proje Yapısı
+
+- /lib
+ -  ├── models/          # Veri modelleri (Podcast gibi)
+ -  ├── screens/         # Uygulama ekranları (Home, NowPlaying)
+ -  ├── services/        # API ve veri işlemleri
+ -  ├── widgets/         # Tekrarlı bileşenler (CustomBottomNavbar, PodcastCard gibi)
+ -  └── main.dart        # Ana dosya
+
+🛠️ Kullanılan Teknolojiler
+- Flutter: Modern mobil uygulama geliştirme için.
+- Dart: Flutter ile uyumlu bir programlama dili.
+- API Entegrasyonu: Podcast verilerini dinamik olarak getirmek için.
+
+🚀 Başlatma
+Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
+1. Bu depoyu klonlayın:
+git clone https://github.com/kilicarslanokan/podkes.git
+2. Gerekli bağımlılıkları yükleyin:
+flutter pub get
+3. Projeyi çalıştırın:
+flutter run
+
+📧 İletişim
+Eğer bu proje hakkında sorularınız varsa, benimle iletişime geçmekten çekinmeyin:
+
+- Email: okan.kilicarslan9@gmail.com
+- GitHub: [Profilinizin Bağlantısı](https://github.com/kilicarslanokan)
+
+Uygulamayı beğendiyseniz bu projeyi yıldızlamayı unutmayın ⭐! 😊
