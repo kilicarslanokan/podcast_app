@@ -18,17 +18,17 @@
 
 ## 📂 Proje Yapısı
 
-/lib
-  ├── models/          # Veri modelleri (Podcast gibi)
-  ├── screens/         # Uygulama ekranları (Home, NowPlaying)
-  ├── services/        # API ve veri işlemleri
-  ├── widgets/         # Tekrarlı bileşenler (CustomBottomNavbar, PodcastCard gibi)
-  └── main.dart        # Ana dosya
+- /lib
+ -  ├── models/          # Veri modelleri (Podcast gibi)
+ -  ├── screens/         # Uygulama ekranları (Home, NowPlaying)
+ -  ├── services/        # API ve veri işlemleri
+ -  ├── widgets/         # Tekrarlı bileşenler (CustomBottomNavbar, PodcastCard gibi)
+ -  └── main.dart        # Ana dosya
 
 🛠️ Kullanılan Teknolojiler
-Flutter: Modern mobil uygulama geliştirme için.
-Dart: Flutter ile uyumlu bir programlama dili.
-API Entegrasyonu: Podcast verilerini dinamik olarak getirmek için.
+- Flutter: Modern mobil uygulama geliştirme için.
+- Dart: Flutter ile uyumlu bir programlama dili.
+- API Entegrasyonu: Podcast verilerini dinamik olarak getirmek için.
 
 🚀 Başlatma
 Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
@@ -42,7 +42,7 @@ flutter run
 📧 İletişim
 Eğer bu proje hakkında sorularınız varsa, benimle iletişime geçmekten çekinmeyin:
 
-Email: okan.kilicarslan9@gmail.com
-GitHub: [Profilinizin Bağlantısı](https://github.com/kilicarslanokan)
+- Email: okan.kilicarslan9@gmail.com
+- GitHub: [Profilinizin Bağlantısı](https://github.com/kilicarslanokan)
 
 Uygulamayı beğendiyseniz bu projeyi yıldızlamayı unutmayın ⭐! 😊
