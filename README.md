@@ -1,0 +1,2 @@
+# podcast_app
+ Podkes modern bir podcast uygulamasıdır. Karanlık bir temaya ve kullanıcı dostu bir arayüze sahiptir. Kullanıcılar, farklı kategorilerdeki popüler podcast'leri keşfedebilir, favori içeriklerini dinleyebilir ve uygulama üzerinden gezinirken keyifli bir deneyim yaşayabilir.  Bu projede, Flutter kullanılarak tasarlanmış bir responsive tasarım, temiz bir kod yapısı ve modüler bir dosya düzeni benimsenmiştir. 
