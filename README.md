@@ -2,11 +2,16 @@
 
 **Podkes** modern bir podcast keşif ve dinleme uygulamasıdır. Kullanıcı dostu tasarımı ve karanlık temasıyla, farklı kategorilerdeki popüler podcast'leri keşfetmenize ve dinlemenize olanak tanır.
 
-## 📸 Ekran Görüntüleri
+## Ekran Görüntüleri
 
-| Ana Ekran                         | Şimdi Çalıyor Ekranı              |
-|-----------------------------------|-----------------------------------|
-| ![Ana Ekran](./screenshots/home_screen.jpg) | ![Şimdi Çalıyor](./screenshots/now_playing.jpg) |
+### Yerleşik Ekran
+![Yerleşik Ekran](./screenshots/onboarding_screen.jpg)
+
+### Ana Ekran
+![Ana Ekran](./screenshots/home_screen.jpg)
+
+### Şimdi Çalıyor
+![Şimdi Çalıyor](./screenshots/now_playing.jpg)
 
 ## 🚀 Özellikler
 
