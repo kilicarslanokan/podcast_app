@@ -6,7 +6,7 @@
 
 | Ana Ekran                         | Şimdi Çalıyor Ekranı              |
 |-----------------------------------|-----------------------------------|
-| ![Ana Ekran](./screenshots/home.png) | ![Şimdi Çalıyor](./screenshots/now_playing.png) |
+| ![Ana Ekran](./screenshots/home_screen.jpg) | ![Şimdi Çalıyor](./screenshots/now_playing.jpg) |
 
 ## 🚀 Özellikler
 
