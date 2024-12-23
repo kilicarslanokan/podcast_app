@@ -18,7 +18,6 @@
 
 ## 📂 Proje Yapısı
 
-```plaintext
 /lib
   ├── models/          # Veri modelleri (Podcast gibi)
   ├── screens/         # Uygulama ekranları (Home, NowPlaying)
