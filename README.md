@@ -1,12 +1,49 @@
-# podkes
+# Podkes 🎧
 
-A new Flutter project.
+**Podkes** modern bir podcast keşif ve dinleme uygulamasıdır. Kullanıcı dostu tasarımı ve karanlık temasıyla, farklı kategorilerdeki popüler podcast'leri keşfetmenize ve dinlemenize olanak tanır.
 
-## Getting Started
+## 📸 Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
-![onboarding_screen](https://github.com/user-attachments/assets/4b6747f1-88f0-4ad8-b7e4-07327e3e87f7)
+| Ana Ekran                         | Şimdi Çalıyor Ekranı              |
+|-----------------------------------|-----------------------------------|
+| ![Ana Ekran](./screenshots/home.png) | ![Şimdi Çalıyor](./screenshots/now_playing.png) |
 
-![home_screen](https://github.com/user-attachments/assets/2f6cf9a3-8cea-4aee-b4ee-823c0fc1384b)
+## 🚀 Özellikler
 
-![now_playing](https://github.com/user-attachments/assets/bed4bc24-1e5a-439e-9863-e094fd981e8a)
+- 🎙️ Podcast keşfi: Farklı kategorilerdeki podcast'leri keşfedin.
+- 🕶️ Karanlık Tema: Kullanıcı dostu, göz yormayan bir tasarım.
+- 📱 Responsive Tasarım: Farklı cihazlarda mükemmel uyum.
+- 🔍 Arama Fonksiyonu: Aradığınız içeriklere kolayca ulaşın.
+- 📂 Modüler Yapı: Kolay anlaşılabilir, temiz kod.
+
+## 📂 Proje Yapısı
+
+```plaintext
+/lib
+  ├── models/          # Veri modelleri (Podcast gibi)
+  ├── screens/         # Uygulama ekranları (Home, NowPlaying)
+  ├── services/        # API ve veri işlemleri
+  ├── widgets/         # Tekrarlı bileşenler (CustomBottomNavbar, PodcastCard gibi)
+  └── main.dart        # Ana dosya
+
+🛠️ Kullanılan Teknolojiler
+Flutter: Modern mobil uygulama geliştirme için.
+Dart: Flutter ile uyumlu bir programlama dili.
+API Entegrasyonu: Podcast verilerini dinamik olarak getirmek için.
+
+🚀 Başlatma
+Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
+1. Bu depoyu klonlayın:
+git clone https://github.com/kilicarslanokan/podkes.git
+2. Gerekli bağımlılıkları yükleyin:
+flutter pub get
+3. Projeyi çalıştırın:
+flutter run
+
+📧 İletişim
+Eğer bu proje hakkında sorularınız varsa, benimle iletişime geçmekten çekinmeyin:
+
+Email: okan.kilicarslan9@gmail.com
+GitHub: [Profilinizin Bağlantısı](https://github.com/kilicarslanokan)
+
+Uygulamayı beğendiyseniz bu projeyi yıldızlamayı unutmayın ⭐! 😊
