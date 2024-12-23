@@ -48,6 +48,6 @@ flutter run
 Eğer bu proje hakkında sorularınız varsa, benimle iletişime geçmekten çekinmeyin:
 
 - Email: okan.kilicarslan9@gmail.com
-- GitHub: [Profilinizin Bağlantısı](https://github.com/kilicarslanokan)
+- GitHub: https://github.com/kilicarslanokan
 
 Uygulamayı beğendiyseniz bu projeyi yıldızlamayı unutmayın ⭐! 😊
