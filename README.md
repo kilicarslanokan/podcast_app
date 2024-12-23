@@ -10,7 +10,7 @@
 ### Ana Ekran
 ![Ana Ekran](./screenshots/home_screen.jpg)
 
-### Şimdi Çalıyor
+### Şimdi Çalıyor Ekranı
 ![Şimdi Çalıyor](./screenshots/now_playing.jpg)
 
 ## 🚀 Özellikler
