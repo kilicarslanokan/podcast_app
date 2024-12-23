@@ -5,13 +5,13 @@
 ## Ekran Görüntüleri
 
 ### Yerleşik Ekran
-<img src="./screenshots/onboarding_screen.jpg" alt="Yerleşik Ekran" width="300" height="500">
+<img src="./screenshots/onboarding_screen.jpg" alt="Yerleşik Ekran" width="450" height="600">
 
 ### Ana Ekran
-<img src="./screenshots/home_screen.jpg" alt="Ana Ekran" width="300" height="500">
+<img src="./screenshots/home_screen.jpg" alt="Ana Ekran" width="450" height="600">
 
 ### Şimdi Çalıyor
-<img src="./screenshots/now_playing.jpg" alt="Şimdi Çalıyor" width="300" height="500">
+<img src="./screenshots/now_playing.jpg" alt="Şimdi Çalıyor" width="450" height="600">
 
 ## 🚀 Özellikler
 
